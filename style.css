@@ -1,7 +1,17 @@
-html, body {
-    margin: 0;
-    padding: 0;
-  }
-  canvas {
-    display: block;
-  }
+p {
+  text-align: center;
+background: #CCCCCC;
+}
+
+
+body {
+  background: #00BFFF
+}
+
+h1{
+  text-align: center;
+}
+
+em strong {
+  color:aqua;
+}
